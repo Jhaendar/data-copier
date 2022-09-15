@@ -2,3 +2,4 @@
 .vscode
 retail_pg
 __pycache__
+.env
