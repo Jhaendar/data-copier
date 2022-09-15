@@ -1,3 +1,4 @@
 .dc-venv
 .vscode
 retail_pg
+__pycache__
